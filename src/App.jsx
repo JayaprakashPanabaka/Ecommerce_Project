@@ -50,7 +50,7 @@ const routes = createBrowserRouter([
 function App() {
   return (
     <div>
-      {/* router defore v6.23 */}
+      {/* router before v6.23 */}
       {/* <BrowserRouter>
         <Header />
         <Routes>
